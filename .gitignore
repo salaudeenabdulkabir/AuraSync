@@ -1,0 +1,9 @@
+node_modules
+.next
+.env
+.env.local
+*.tsbuildinfo
+.youcam-cache/*
+!.youcam-cache/.gitkeep
+public/cached-outputs/*
+!public/cached-outputs/.gitkeep
